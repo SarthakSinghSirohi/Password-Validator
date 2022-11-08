@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-image: linear-gradient(90deg, rgb(59, 52, 134) 0%, rgb(119, 67, 219) 35%, rgb(178, 164, 255) 100%);
+}
+
+div {
+    border-radius: 5px;
+    padding: 1em;
+    width: 400px;
+    margin: 20px auto;
+}
+
+h1 {
+    color: cornsilk;
+}
+
+h5 {
+    color: black;
+    font-size: 2em;
+}
+
+p {
+    color: turquoise;
+    text-align: left;
+    margin: 2px;
+    font-size: 1.5em;
+}
+
+input {
+    font-size: 2em;
+    color: red;
+}
+
+.form {
+    border: solid 5px red;
+}
